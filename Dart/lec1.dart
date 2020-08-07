@@ -1,4 +1,5 @@
 main() {
-  String first = 'Hello World';
-  print(first);
+  var first = 'Hello';
+  String last = 'World';
+  print(first + ' ' + last);
 }
