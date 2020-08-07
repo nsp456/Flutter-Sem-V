@@ -1,5 +1,5 @@
 main() {
-  var fname = 'Hello';
-  String lname = 'World';
-  print(fname + ' ' + lname);
+  var first = 'Hello';
+  String last = 'World';
+  print(first + ' ' + last);
 }
