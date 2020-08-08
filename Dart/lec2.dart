@@ -6,7 +6,7 @@ void main() {
   val.add(108);
   val.add(36);
 
-  int max = val[1];
+  int max = val[0];
   for (int e in val) {
     if (e > max) max = e;
   }
