@@ -1,6 +1,7 @@
 # Quiz App Implementation
 
-Final Score is printed at the end.
+## Final Score is printed at the end.
+
 
 ![alt text](https://github.com/nsp456/Flutter-Sem-V/blob/master/Quiz%20App/screenshots/Q-1.jpg?raw=true)
 
